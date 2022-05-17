@@ -1,1 +1,1 @@
-# Heat-Sensor-Arduino-uno
+# Light-Sensor-Arduino-uno
